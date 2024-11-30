@@ -16,7 +16,7 @@ public class Principal {
          for (int i=0; i <100;i++) {
              miCancion.meGusta();
          }
-        for (int i = 0; i <100 ; i++) {
+        for (int i = 0; i <100 ; i++) {qw
             miCancion.reproduce();
         }
         System.out.println(miCancion.getTotalDeReproducciones() + " Total  de reproduccones ");
