@@ -29,4 +29,17 @@ public class Cancion extends Audio {
     public void setGenero(String genero) {
         this.genero = genero;
     }
+
+    @Override
+    public int getCalificacion() {
+
+        if (getTotalDeMegusta() > 10) {
+            return 8;
+        }else {
+            return 4;
+        }
+
+
+
+    }
 }

@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d119aebf-84e6-4172-94e0-f7f183d5c406" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/aluracursos/modelos/MisFavoritos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/modelos/Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/modelos/Cancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aluracursos/modelos/Podcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/modelos/Podcast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/aluracursos/radioaluraa/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aluracursos/radioaluraa/principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,5 +67,16 @@
       <updated>1732747435163</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aluracursos/modelos/Cancion.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
